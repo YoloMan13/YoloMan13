@@ -1,4 +1,4 @@
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YoloMan13&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YoloMan13&show_icons=true&theme=dark)
 
 <!--
 **YoloMan13/YoloMan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
